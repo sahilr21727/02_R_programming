@@ -8,7 +8,6 @@ This repository consists of R scripts for **data transformation**, **visualizati
 - `02_Data_visualization.R` – Creating plots and graphs using ggplot2
 - `03_statistics.R` – Basic statistical analysis
 - `04_DNA_quality_check.R` – Biological data checks
-- `R learning.Rproj` – RStudio project file
 
 ## 📊 Features
 
