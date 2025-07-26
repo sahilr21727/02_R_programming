@@ -23,6 +23,6 @@ This repository consists of R scripts for **data transformation**, **visualizati
 - Packages: `tidyverse`, `readxl`, `ggplot2`
 
 Install dependencies with:
-```r
+  ```r
 install.packages("tidyverse")
 install.packages("readxl")
